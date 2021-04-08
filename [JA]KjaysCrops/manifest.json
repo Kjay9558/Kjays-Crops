@@ -1,0 +1,13 @@
+{
+    "Name": "KjaysCrops",
+    "Author": "Kjay9558",
+    "Description": "More Crops, we want more!",
+    "Version": "1.3",
+    "MinimumApiVersion": "3.0.0",
+    "UniqueID": "Kjay9558.KjayCrops",
+    "ContentPackFor":
+    {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+    "UpdateKeys": ["Nexus:"],
+}

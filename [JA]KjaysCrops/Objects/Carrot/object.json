@@ -1,0 +1,21 @@
+{
+    "Name": "Carrot",
+    "Description": "A crunchy orange-yellow vegetable.",
+    "Category": "Vegetable",
+    "Edibility": 8,
+    "Price": 35,
+    "IsColored": false,
+    "GiftTastes":
+    {
+      "Love": ["Harvey", "Lewis", "Linus"],
+      "Like": ["Alex", "Marnie", "Jodie"],
+      "Neutral": null,
+      "Dislike": ["Abigail", "Haley"],
+      "Hate": ["Vincent"]
+    },
+    "Recipe": null,
+    "ContextTags": [
+        "season_summer",
+        "vegetable_item",
+    ],
+}
